@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.example.myca2
+=======
+package com.example.workshop
+>>>>>>> e8154a014e7fa0a40121e2183c15d01087aad6b2
 
 import android.os.Bundle
 import android.widget.Toast
@@ -10,7 +14,10 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
+<<<<<<< HEAD
 import androidx.navigation.NavHostController
+=======
+>>>>>>> e8154a014e7fa0a40121e2183c15d01087aad6b2
 import androidx.navigation.NavType
 import androidx.navigation.compose.*
 import androidx.navigation.navArgument
